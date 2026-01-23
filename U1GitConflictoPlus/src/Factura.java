@@ -1,6 +1,6 @@
 public class Factura {
 
-    public static final String VERSION_OBJETIVO = "PENDIENTE";
+    public static final String VERSION_OBJETIVO = "RESUELTO";
 
     private static final double IVA = 0.16;
     private static final double PRECIO_UNITARIO = 1200.0;
